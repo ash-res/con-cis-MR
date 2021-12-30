@@ -1,5 +1,4 @@
 "Conditional inference in cis-Mendelian randomization using weak genetic factors"
-
 by Ashish Patel, Dipender Gill, Paul Newcombe, and Stephen Burgess
 
 load R code to use the S-LIML method: source(S-LIML.R)
